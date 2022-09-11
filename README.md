@@ -6,5 +6,5 @@
 It just converts image to text using AI pixel recognization simple nothing too complicated watch youtube video link 👇
 And don't forget to subscribe
 
-# [Watch Youtube Video](https://link-url-here.org)
+# [Watch Youtube Video]([https://link-url-here.org](https://www.youtube.com/watch?v=R0wDsH4S7tg&ab_channel=Codingwithharneet))
 
